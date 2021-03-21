@@ -1,0 +1,20 @@
+ 
+  
+  *{
+       padding:black;
+   }
+   h1{
+    text-align: center;
+  
+   }
+
+   body{
+     background-image: url("https://i.pinimg.com/originals/17/d6/2b/17d62be70859d3f9fb1d5f327073849d.jpg");
+     margin: 0px;
+   }
+
+  .game{
+    border: solid;
+   margin:  50px;
+   
+  }
